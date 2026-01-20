@@ -1,19 +1,15 @@
 # Commerical-Space-Finder-System
-Sure 👍 Here’s a **detailed, interview-ready explanation** of your **Shop_Finder project**, clearly highlighting the **technical skills**, **architecture**, and **your role**. You can use this in **technical rounds** or when the interviewer asks *“Explain your project”*.
 
----
-
-## 🔹 Project Title: **Shop_Finder**
 
 ### 📌 **Project Overview**
 
-**Shop_Finder** is a full-stack web application designed to help users easily find shops near their location, while allowing shop owners to register and manage their shop details online. The main goal of this project is to bridge the gap between local shop owners and nearby customers using a simple and efficient digital platform.
+**Commerical-Space-Finder-System** is a full-stack web application designed to help users easily find shops near their location, while allowing shop owners to register and manage their shop details online. The main goal of this project is to bridge the gap between local shop owners and nearby customers using a simple and efficient digital platform.
 
 ---
 
 ## 🎯 **Problem Statement**
 
-Many local shops do not have an online presence, making it difficult for customers to discover nearby services. At the same time, customers often struggle to find relevant shops in their locality quickly. **Shop_Finder** solves this by providing:
+Many local shops do not have an online presence, making it difficult for customers to discover nearby services. At the same time, customers often struggle to find relevant shops in their locality quickly. **Commerical-Space-Finder-System** solves this by providing:
 
 * A location-based shop search for customers
 * A self-registration system for shop owners
